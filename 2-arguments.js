@@ -7,5 +7,5 @@ if(args == 0){
     console.log("Argument found");
 }
 else{
-    console.log("Argument found");
+    console.log("Arguments found");
 }
